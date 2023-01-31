@@ -1,0 +1,14 @@
+1 to check the branches
+   git branch
+
+2 to create and checkout to newbranch
+  git checkout -b "new_test"
+
+3 to switch to other branchs
+  git checkout "branchname"
+
+4 to push to it the respective branch
+   git push --set -upstream origin "branch_name"
+
+5 to delete a branch
+ git branch -d "branch name"  
