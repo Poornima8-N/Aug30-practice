@@ -6,3 +6,6 @@ to check the git logs
 
 to exit log
 -q
+
+to revert the changes
+-git revert "commit id"
