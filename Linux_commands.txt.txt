@@ -1,0 +1,28 @@
+to login to root user
+sudo su
+
+to check the present working directory
+pwd
+
+to move file from one location to other location
+mv"sourcefilepath/filename" destination filepath/filename"
+
+to list the files
+ls
+
+to update all the linux package(Amazon)
+yum update
+
+-apt-get update(ubuntu command)
+
+to install java
+yum install java-11
+
+to check the java version
+java --version
+
+to install maven
+yum install maven
+
+ti install git
+yum install git
