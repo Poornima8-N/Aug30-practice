@@ -1,0 +1,11 @@
+to merge the branch with main branch and than run command as below
+-git merge "branch name"
+
+to check the git logs
+-git log
+
+to exit log
+-q
+
+to revert the changes
+-git revert "commit id"
